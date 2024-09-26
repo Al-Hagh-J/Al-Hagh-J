@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning Robotics & AI
 - 💞️ I’m looking to collaborate on Robotics
 - 📫 How to reach me www.linkedin.com/in/alhaghj
-- 😄 Pronouns: :)/(:
-- ⚡ Fun fact: Earth is Round!
